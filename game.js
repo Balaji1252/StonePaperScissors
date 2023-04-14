@@ -11,7 +11,7 @@ let displayPlayerSelection = document.getElementById("playerSelection");
 let displayComputerSelection = document.getElementById("computerSelection");
 let reset = document.getElementById("reset");
 
-let sis="https:codersgas.github.io/rock-paper-scissors/scissor.png";
+let sis="https://codersgas.github.io/rock-paper-scissors/scissor.png";
 let pap="https://codersgas.github.io/rock-paper-scissors/paper.png";
 let rck="https://codersgas.github.io/rock-paper-scissors/rock.png";
 let temp =document.createElement("img");
